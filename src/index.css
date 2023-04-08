@@ -1,0 +1,31 @@
+/* ./src/index.css */
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  html, body {
+    @apply font-Spartan h-screen
+  }   
+}
+
+h1 {
+  @apply text-cmablue uppercase text-6xl font-bold
+}
+
+h2 {
+  @apply text-cmablue text-4xl font-bold pt-6
+}
+
+a {
+  @apply underline
+}
+
+.bottom-line {
+  @apply bg-border bg-bottom bg-repeat-x
+}
+
+.menu-item {
+  @apply block p-2 text-3xl no-underline hover:text-gray-300
+}
