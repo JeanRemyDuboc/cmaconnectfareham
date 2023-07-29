@@ -9,7 +9,7 @@ import { copy } from 'fs-extra'
     console.log("Building started...");
     await execa("npm", ["run", "build"]);
     // Understand if it's dist or build folder
-    copy('index.html','404.html')
+    copy('dist/index.html','dist/404.html')
     const folderName = existsSync("dist") ? "dist" : "build";
     await execa("git", ["--work-tree", folderName, "add", "--all"]);
     let date = Date.now();
