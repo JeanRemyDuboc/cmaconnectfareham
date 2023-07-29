@@ -2,13 +2,15 @@
   "name": "cmaconnect",
   "version": "0.0.0",
   "private": true,
+  "type":"module",
   "scripts": {
     "dev": "vite",
     "build": "run-p type-check build-only",
     "preview": "vite preview",
     "build-only": "vite build",
     "type-check": "vue-tsc --noEmit",
-    "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs,.ts,.tsx,.cts,.mts --fix --ignore-path .gitignore"
+    "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs,.ts,.tsx,.cts,.mts --fix --ignore-path .gitignore",
+    "deploy": "node scripts/gh-pages-deploy.js"
   },
   "dependencies": {
     "@gtm-support/vue-gtm": "^2.0.0",
