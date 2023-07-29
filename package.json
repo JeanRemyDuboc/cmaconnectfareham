@@ -2,7 +2,7 @@
   "name": "cmaconnect",
   "version": "0.0.0",
   "private": true,
-  "type":"module",
+  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "run-p type-check build-only",
@@ -16,6 +16,7 @@
     "@gtm-support/vue-gtm": "^2.0.0",
     "@headlessui/vue": "^1.7.7",
     "@heroicons/vue": "^2.0.14",
+    "fs-extra": "^11.1.1",
     "vue": "^3.2.45",
     "vue-router": "^4.1.6"
   },
