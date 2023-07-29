@@ -2,7 +2,7 @@
   <main>
     <h1>In Debt? <span class="block md:inline">Need Help?</span></h1>
     <p class="text-3xl bottom-line pb-5">
-      We're here to help, anyone worried about money or debt to access free, confidential debt advice.
+      We're here to help, anyone worried about money or debt to access free, confidential debt advice.<br/>
       We operate in the Fareham and Gosport area.
     </p>
   </main>
