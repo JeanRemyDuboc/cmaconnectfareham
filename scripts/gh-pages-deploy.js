@@ -16,7 +16,7 @@ import { copy } from 'fs-extra'
     let date = new Date;
     date = date.toLocaleString();
     await execa("git", ["--work-tree", folderName, "commit", "-m", "gh-pages ("+date+")"]);
-    console.log("Pushing to gh-pages("+date")...");
+    console.log("Pushing to gh-pages("+date+")...");
     await execa("git", ["push", "origin", "HEAD:gh-pages", "--force"]);
     await execa("rm", ["-r", folderName]);
     await execa("git", ["checkout", "-f", "main"]);
