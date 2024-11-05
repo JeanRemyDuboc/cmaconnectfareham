@@ -6,7 +6,7 @@
     </p>
     <h2>Make a donation</h2>
     <p class="text-2xl">
-      You can make a donatio to help cover our running costs.<br/>
+      You can make a donation to help cover our running costs.<br/>
       These include:
       <ul class="text-2xl list-disc list-inside my-3">
         <li>Our office expenses: IT and communication, phone line, etc.</li>
