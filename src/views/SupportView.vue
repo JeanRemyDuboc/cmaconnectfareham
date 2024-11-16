@@ -1,3 +1,7 @@
+<script setup lang="ts">
+import { loadScript } from "vue-plugin-load-script";
+loadScript("https://d36lg3an42tsdn.cloudfront.net/platform/widgetloader.be7d39c7.js");
+</script>
 <template>
   <div class="about">
     <h1>Support us</h1>
