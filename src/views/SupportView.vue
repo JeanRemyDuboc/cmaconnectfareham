@@ -19,11 +19,8 @@ loadScript("https://d36lg3an42tsdn.cloudfront.net/platform/widgetloader.be7d39c7
         </li>
         <li>Our fundraising for a part-time centre manager.</li>
       </ul>
-
-      <div class="crowdfunder-widget" data-project-title="CMA CONNECT FAREHAM" data-project-id="cma-connect-fareham" data-template-id="4185379753100011" data-theme="default" data-style-height="48px" data-style-width="240px">
-        <a href="https://www.crowdfunder.co.uk/p/cma-connect-fareham" rel="noopener" target="_blank">CMA CONNECT FAREHAM</a>
-      </div>
     </p>
+
     <h2>Got a head for finance and a ♥ for people?</h2>
     <p class="text-2xl">
       <b>Come and volunteer at CMA Connect Fareham</b><br/>
