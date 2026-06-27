@@ -60,7 +60,7 @@
               src="@/assets/envelope-white.svg"  
               class="inline-block w-4 mr-1"
             />
-            <a href="mailto:cmafareham@gmail.com" class="no-underline" title="Email us">cmafareham@gmail.com</a>
+            <a href="mailto:contact@cmaconnectfareham.org" class="no-underline" title="Email us">contact@cmaconnectfareham.org</a>
           </li>
         </ul>
       </p>

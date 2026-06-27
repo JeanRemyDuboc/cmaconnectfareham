@@ -34,6 +34,6 @@ loadScript("https://d36lg3an42tsdn.cloudfront.net/platform/widgetloader.be7d39c7
       </ul>
     </p>
     <h2>Find out how you can help</h2>
-    <p class="text-2xl pb-5 border-b">Email us to find out how YOU can help: <a href="mailto:cmafareham@gmail.com">cmafareham@gmail.com</a></p>
+    <p class="text-2xl pb-5 border-b">Email us to find out how YOU can help: <a href="mailto:contact@cmaconnectfareham.org">contact@cmaconnectfareham.org</a></p>
   </div>
 </template>
